@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sports Team App</string>
+    <string name="TeamNameFieldName">Team Name</string>
+    <string name="TeamNameFieldHint">Please enter a name</string>
+    <string name="LocationFieldName">Location</string>
+    <string name="LocationFieldHint">Please enter an Address</string>
+    <string name="OpenInMapsButton">Open in Google Maps</string>
+</resources>
